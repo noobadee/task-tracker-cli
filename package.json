@@ -1,0 +1,31 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "A simple and efficient command-line interface application for managing your tasks",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "task-tracker",
+    "todo",
+    "task-management",
+    "productivity",
+    "command-line"
+  ],
+  "author": "noobadee",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noobadee/task-tracker-cli.git"
+  },
+  "bin": {
+    "task-tracker-cli": "./app.js"
+  }
+}
