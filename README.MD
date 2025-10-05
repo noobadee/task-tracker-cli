@@ -126,10 +126,6 @@ task-tracker-cli:$ exit
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-
-ISC
-
 ## Author
 
 Built by a nobody
