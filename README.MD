@@ -128,4 +128,10 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Author
 
-Built by a nobody
+Created by a nobody.
+
+---
+
+**Project URL**: [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
+*A project from roadmap.sh*
